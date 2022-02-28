@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>swipeqml.qml</file>
+        <file>schedule.qml</file>
+        <file>MaterialDark.qss</file>
+        <file>MacOS.qss</file>
+        <file>DarkMonokai.qss</file>
+        <file>material-blue.qss</file>
+        <file>arrow.png</file>
+        <file>PngItem_3900549.png</file>
+        <file>exit-icon-png-23.jpeg</file>
+        <file>next.png</file>
+        <file>previous.png</file>
+    </qresource>
+</RCC>
